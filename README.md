@@ -5,7 +5,7 @@ This project contains all materials and references to get insperied and start wo
 
 * [Other JS Communities](other-js-communities.md)
 * [Youtube Channels](youtube-channels.md)
-* [Sources for articles]()
+* [Sources for articles](sources-for-articles.md)
 * [Team](#team)
 * [Acknowledgements](#acknowledgements)
 * [License](#license)
