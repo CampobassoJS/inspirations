@@ -1,5 +1,6 @@
-# inspirations
-Other JS communities
+# Other JS communities
+
+This document contains a collection of selected web site that other JavaScript communitires built to support their contents and activities. This list represents a source of inspiration for future works on **[CampobassoJS](http://www.campobassojs.com)** 
 
 ## America
 - [Los Angeles](https://js.la/)
