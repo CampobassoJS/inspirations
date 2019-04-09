@@ -4,7 +4,7 @@ This project contains all materials and references to get insperied and start wo
 **[campobassojs.com](http://www.campobassojs.com)** web site and community.
 
 * [Other JS Communities](other-js-communities.md)
-* [Youtube Channels](youtube-channels.md)
+* [Youtube Channels](youtube-cahnnels.md)
 * [Sources for articles](sources-for-articles.md)
 * [Team](#team)
 * [Acknowledgements](#acknowledgements)
